@@ -7,7 +7,7 @@ function Home() {
 			<p className="text-4xl">Spotify Library Transfer</p>
 			<div className="flex items-center justify-center ">
 				<SpotifyComponent />
-				<SpotifyComponent />
+				{/* <SpotifyComponent /> */}
 			</div>
 		</div>
 	)
